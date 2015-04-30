@@ -8,7 +8,7 @@ This code is a modification of the gFlip3D/gDel3D algorithm found at http://www.
 
 I think the authors are absolutely amazing so I decided to build on their work and approach the triangulation process a bit differently.
 
-For those not in the know, a very fun thing to do in mathematics is take a set of points and draw triangles between them, creating a mesh. It's become common to approach these problems by creating an all-encompassing triangle (or tetrahedron in 3D) and then inserting points one at a time. Each point insertion creates a "fracture" or a set of sub-tetrahedra.gFlip3D struck me as unique because unlike CPUs which insert points one at a time, the authors used the GPU to insert many points at a time.
+For those not in the know, a very fun thing to do in mathematics is take a set of points and draw triangles between them, creating a mesh. It's become common to approach these problems by creating an all-encompassing triangle (or tetrahedron in 3D) and then inserting points one at a time. Each point insertion creates a "fracture" or a set of sub-tetrahedra. gFlip3D struck me as unique because unlike CPUs which insert points one at a time, the authors used the GPU to insert many points at a time.
 
 However, it's difficult to handle inserting points when they are on a tetrahedron (either on a face or an edge). In fact, it complicates things quite a bit.
 
