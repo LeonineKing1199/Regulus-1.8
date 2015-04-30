@@ -1,0 +1,130 @@
+Testing tet 0 against point 0
+Testing tet 0 against point 1
+Testing tet 0 against point 2
+Testing tet 0 against point 3
+Testing tet 0 against point 4
+Testing tet 0 against point 5
+Testing tet 0 against point 6
+Testing tet 0 against point 7
+Testing tet 0 against point 8
+Testing tet 0 against point 9
+Testing tet 0 against point 10
+Testing tet 0 against point 11
+Testing tet 0 against point 12
+Testing tet 0 against point 13
+Testing tet 0 against point 14
+Testing tet 0 against point 15
+Testing tet 0 against point 16
+Testing tet 0 against point 17
+Testing tet 0 against point 18
+Testing tet 0 against point 19
+Testing tet 0 against point 20
+Testing tet 0 against point 21
+Testing tet 0 against point 22
+Testing tet 0 against point 23
+Testing tet 0 against point 24
+Testing tet 0 against point 25
+Testing tet 0 against point 26
+Testing tet 0 against point 27
+Testing tet 0 against point 28
+Testing tet 0 against point 29
+Testing tet 0 against point 30
+Testing tet 0 against point 31
+Testing tet 0 against point 32
+Testing tet 0 against point 33
+Testing tet 0 against point 34
+Testing tet 0 against point 35
+Testing tet 0 against point 36
+Testing tet 0 against point 37
+Testing tet 0 against point 38
+Testing tet 0 against point 39
+Testing tet 0 against point 40
+Testing tet 0 against point 41
+Testing tet 0 against point 42
+Testing tet 0 against point 43
+Testing tet 0 against point 44
+Testing tet 0 against point 45
+Testing tet 0 against point 46
+Testing tet 0 against point 47
+Testing tet 0 against point 48
+Testing tet 0 against point 49
+Testing tet 0 against point 50
+Testing tet 0 against point 51
+Testing tet 0 against point 52
+Testing tet 0 against point 53
+Testing tet 0 against point 54
+Testing tet 0 against point 55
+Testing tet 0 against point 56
+Testing tet 0 against point 57
+Testing tet 0 against point 58
+Testing tet 0 against point 59
+Testing tet 0 against point 60
+Testing tet 0 against point 61
+Testing tet 0 against point 62
+Testing tet 0 against point 63
+729, 0, 0, 0
+648, 0, 0, 81
+567, 0, 0, 162
+486, 0, 0, 243
+648, 0, 81, 0
+567, 0, 81, 81
+486, 0, 81, 162
+405, 0, 81, 243
+567, 0, 162, 0
+486, 0, 162, 81
+405, 0, 162, 162
+324, 0, 162, 243
+486, 0, 243, 0
+405, 0, 243, 81
+324, 0, 243, 162
+243, 0, 243, 243
+648, 81, 0, 0
+567, 81, 0, 81
+486, 81, 0, 162
+405, 81, 0, 243
+567, 81, 81, 0
+486, 81, 81, 81
+405, 81, 81, 162
+324, 81, 81, 243
+486, 81, 162, 0
+405, 81, 162, 81
+324, 81, 162, 162
+243, 81, 162, 243
+405, 81, 243, 0
+324, 81, 243, 81
+243, 81, 243, 162
+162, 81, 243, 243
+567, 162, 0, 0
+486, 162, 0, 81
+405, 162, 0, 162
+324, 162, 0, 243
+486, 162, 81, 0
+405, 162, 81, 81
+324, 162, 81, 162
+243, 162, 81, 243
+405, 162, 162, 0
+324, 162, 162, 81
+243, 162, 162, 162
+162, 162, 162, 243
+324, 162, 243, 0
+243, 162, 243, 81
+162, 162, 243, 162
+81, 162, 243, 243
+486, 243, 0, 0
+405, 243, 0, 81
+324, 243, 0, 162
+243, 243, 0, 243
+405, 243, 81, 0
+324, 243, 81, 81
+243, 243, 81, 162
+162, 243, 81, 243
+324, 243, 162, 0
+243, 243, 162, 81
+162, 243, 162, 162
+81, 243, 162, 243
+243, 243, 243, 0
+162, 243, 243, 81
+81, 243, 243, 162
+0, 243, 243, 243
+========= CUDA-MEMCHECK
+========= ERROR SUMMARY: 0 errors
